@@ -1,4 +1,4 @@
-# Toir Update Checker
+# League of Legends Toir Script Update Checker
 
 **Toir Update Checker** is a script designed to help you stay up-to-date with the latest updates of Toir Script. It's a convenient way to keep track of changes and improvements without manually visiting the website.
 
@@ -17,6 +17,7 @@ The **Toir Update Checker** script scans through the Toir.us website and checks 
 ## Dependencies
 
 - Python (version 3)
+- Selenium
 
 ## License
 
